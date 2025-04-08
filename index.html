@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucky Shrub - Transform Your Space into an Oasis</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <img src="assets/images/logo-white.png" alt="Lucky Shrub Logo" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <div class="menu-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </nav>
+        </div>
+        <div class="hero" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=1200&auto=format')">
+            <h1>Transform Your Space into an Oasis</h1>
+            <p>Custom garden design and landscaping for indoor and outdoor areas</p>
+            <button class="cta-button">Contact Us</button>
+        </div>
+    </header>
+    
+    <!-- Rest of your HTML remains the same -->
+    <main>
+        <section id="services" class="services">
+            <h2>Our Services</h2>
+            <div class="service-grid">
+                <article>
+                    <img src="assets/images/garden-service.jpg" alt="Garden Design">
+                    <h3>Garden Design</h3>
+                    <p>Personalized garden projects tailored to your space.</p>
+                </article>
+                <article>
+                    <img src="assets/images/landscaping-service.jpg" alt="Landscaping">
+                    <h3>Landscaping</h3>
+                    <p>Revamp your outdoor area with our professional team.</p>
+                </article>
+                <article>
+                    <img src="assets/images/plant-nursery-service.jpg" alt="Plant Nursery">
+                    <h3>Plant Nursery</h3>
+                    <p>Stunning plants for both indoor and outdoor environments.</p>
+                </article>
+            </div>
+        </section>
+        
+        <section id="about" class="about">
+            <h2>About Lucky Shrub</h2>
+            <div class="about-content">
+                <div class="founder">
+                    <img src="assets/images/man.jpg" alt="Jason - Garden Architect">
+                    <p>Jason - Garden Architect</p>
+                </div>
+                <div class="founder">
+                    <img src="assets/images/woman.jpg" alt="Maria - Marketing and Nursery">
+                    <p>Maria - Marketing and Nursery</p>
+                </div>
+                <p>Founded by husband and wife team Jason and Maria, Lucky Shrub combines plant passion with professional expertise. Jason is the garden architect, creating and overseeing all designs. Maria manages marketing and the plant nursery.</p>
+            </div>
+        </section>
+    </main>
+    
+    <footer id="contact">
+        <div class="footer-content">
+            <div class="contact-info">
+                <p>&copy; 2023 Lucky Shrub</p>
+                <p>Tucson, Arizona</p>
+                <p>contact@luckyshrub.com</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu functionality
+        document.querySelector('.menu-toggle').addEventListener('click', function() {
+            document.querySelector('nav ul').classList.toggle('active');
+        });
+    </script>
+</body>
+</html>
