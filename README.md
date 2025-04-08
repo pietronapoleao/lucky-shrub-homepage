@@ -14,6 +14,32 @@ Lucky Shrub is a fictional retail company specializing in garden design, landsca
 
 ## 📐 Project Structure
 
+# 🌿 Lucky Shrub Homepage  
+
+This project was created as part of the **"HTML and CSS in Depth"** course by Meta.  
+
+---
+
+## 🪴 Project Overview  
+Lucky Shrub is a fictional garden design company offering:  
+- Custom landscape designs  
+- Plant nursery services  
+- Professional maintenance  
+
+---
+
+## 🛠️ Technologies Used  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+- Semantic HTML5 structure  
+- CSS Flexbox/Grid layout  
+- Responsive animations  
+- External image optimization  
+
+---
+
+## 📂 Project Structure  
+
 LuckyShrub/
 │
 ├── index.html
@@ -21,16 +47,15 @@ LuckyShrub/
 ├── favicon.ico
 └── assets/
     └── images/
-        ├── favicon.png         
-        ├── logo.png   
-        ├── logo-white.png     
+        ├── logo.png          (Color palette source)
+        ├── logo-white.png    (Header logo) 
+        ├── garden-service.jpg
         ├── landscaping-service.jpg
-        |── plant-nursery-service.jpg 
-        ├── garden-service.jpg   
-        ├── man.jpg          
-        └── woman.jpg         
+        ├── plant-nursery-service.jpg
+        ├── man.jpg           (Jason)
+        └── woman.jpg         (Maria)
 
-landscaping-service.jpg
+
 ## ✨ Features
 
 - Semantic HTML layout for accessibility and SEO
