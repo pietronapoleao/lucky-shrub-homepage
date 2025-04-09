@@ -40,8 +40,8 @@ This exercise helped me solidify my knowledge of HTML and CSS, especially around
 
 ## 🔍 Preview
 
-![Homepage preview 1](https://raw.githubusercontent.com/pietronapoleao/lucky-shrub-homepage/refs/heads/main/assets/images/demo1.jpg)
-![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/lucky-shrub-homepage/refs/heads/main/assets/images/demo2.jpg)
+![Homepage preview 1](https://raw.githubusercontent.com/pietronapoleao/lucky-shrub-homepage/refs/heads/main/assets/images/demo1.png)
+![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/lucky-shrub-homepage/refs/heads/main/assets/images/demo2.png)
 
 
 ## How to Use
