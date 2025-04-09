@@ -77,6 +77,10 @@ While completing this project, I focused on applying everything I learned in the
 
 This exercise helped me solidify my knowledge of HTML and CSS, especially around building accessible and responsive layouts. I enjoyed designing with both code and creativity in mind and look forward to building the next projects!
 
+## 🔍 Preview
+
+![Homepage preview 1](https://raw.githubusercontent.com/pietronapoleao/lucky-shrub-homepage/refs/heads/main/assets/images/demo1.png)
+![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/lucky-shrub-homepage/refs/heads/main/assets/images/demo2.png)
 ## How to Use
 
 To run the site:
