@@ -12,23 +12,9 @@ Lucky Shrub is a fictional retail company specializing in garden design, landsca
 - CSS3 (Flexbox layout, responsive design, animations)
 - External image resources for services section
 
-## 📐 Project Structure
+## Project Structure
 
-LuckyShrub/
-│
-├── index.html
-├── styles.css
-├── favicon.ico
-└── assets/
-    └── images/
-        ├── favicon.png         
-        ├── logo.png   
-        ├── logo-white.png     
-        ├── landscaping-service.jpg
-        |── plant-nursery-service.jpg 
-        ├── garden-service.jpg   
-        ├── man.jpg          
-        └── woman.jpg         
+![Homepage preview 1](https://raw.githubusercontent.com/pietronapoleao/luck-shrub-homepage/refs/heads/main/assets/images/structure.jpg)
 
 landscaping-service.jpg
 ## ✨ Features
