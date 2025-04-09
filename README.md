@@ -14,7 +14,7 @@ Lucky Shrub is a fictional retail company specializing in garden design, landsca
 
 ## Project Structure
 
-![Homepage preview 1](https://raw.githubusercontent.com/pietronapoleao/luck-shrub-homepage/refs/heads/main/assets/images/structure.jpg)
+![Homepage preview 1](https://github.com/pietronapoleao/lucky-shrub-homepage/blob/main/assets/images/structure.jpg?raw=true)
 
 landscaping-service.jpg
 ## ✨ Features
